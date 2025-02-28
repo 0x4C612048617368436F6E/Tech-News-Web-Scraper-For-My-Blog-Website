@@ -1,29 +1,29 @@
 [
     {
-        "article1_li_class":"ssrcss-rs7w2i-ListItem e1gp961v0",
-        "article1_first_div_class":"ssrcss-1va2pun-UncontainedPromoWrapper eqfxz1e5",
-        "article1_second_div_class":"ssrcss-1mhwnz8-Promo e1vyq2e80",
-        "article1_third_div_class":"ssrcss-pa3zb2-PromoSwitchLayoutAtBreakpoints et5qctl0",
-        "article1_fourth_div_class":"ssrcss-tq7xfh-PromoContent exn3ah99",
-        "article1_fifth_div_class":"ssrcss-1f3bvyz-Stack e1y4nx260",
-        "article1_a_class":"ssrcss-afqep1-PromoLink exn3ah91"
+        "li_class":"ssrcss-rs7w2i-ListItem e1gp961v0",
+        "div1_class":"ssrcss-1va2pun-UncontainedPromoWrapper eqfxz1e5",
+        "div2_class":"ssrcss-1mhwnz8-Promo e1vyq2e80",
+        "div3_class":"ssrcss-pa3zb2-PromoSwitchLayoutAtBreakpoints et5qctl0",
+        "div4_class":"ssrcss-tq7xfh-PromoContent exn3ah99",
+        "div5_class":"ssrcss-1f3bvyz-Stack e1y4nx260",
+        "a_class":"ssrcss-afqep1-PromoLink exn3ah91"
     },
     {
-        "article2_li_class":"ssrcss-1dr5icq-ListItem e1gp961v0",
-        "article2_first_div_class":"ssrcss-1va2pun-UncontainedPromoWrapper eqfxz1e5",
-        "article2_second_div_class":"ssrcss-1mhwnz8-Promo e1vyq2e80",
-        "article2_third_div_class":"ssrcss-pa3zb2-PromoSwitchLayoutAtBreakpoints et5qctl0",
-        "article2_fourth_div_class":"ssrcss-tq7xfh-PromoContent exn3ah99",
-        "article2_fifth_div_class":"ssrcss-1f3bvyz-Stack e1y4nx260",
-        "article2_a_class":"ssrcss-1mrs5ns-PromoLink exn3ah91"
+        "li_class":"ssrcss-1dr5icq-ListItem e1gp961v0",
+        "div1_class":"ssrcss-1va2pun-UncontainedPromoWrapper eqfxz1e5",
+        "div2_class":"ssrcss-1mhwnz8-Promo e1vyq2e80",
+        "div3_class":"ssrcss-pa3zb2-PromoSwitchLayoutAtBreakpoints et5qctl0",
+        "div4_class":"ssrcss-tq7xfh-PromoContent exn3ah99",
+        "div5_class":"ssrcss-1f3bvyz-Stack e1y4nx260",
+        "a_class":"ssrcss-1mrs5ns-PromoLink exn3ah91"
     },
     {
-        "article3_li_class":"ssrcss-1r7nvnf-ListItem e1gp961v0",
-        "article3_first_div_class":"ssrcss-1va2pun-UncontainedPromoWrapper eqfxz1e5",
-        "article3_second_div_class":"ssrcss-1mhwnz8-Promo e1vyq2e80",
-        "article3_third_div_class":"ssrcss-pa3zb2-PromoSwitchLayoutAtBreakpoints et5qctl0",
-        "article3_fourth_div_class":"ssrcss-tq7xfh-PromoContent exn3ah99",
-        "article3_fifth_div_class":"ssrcss-1f3bvyz-Stack e1y4nx260",
-        "article3_a_class":"ssrcss-1mrs5ns-PromoLink exn3ah91"
+        "li_class":"ssrcss-1r7nvnf-ListItem e1gp961v0",
+        "div1_class":"ssrcss-1va2pun-UncontainedPromoWrapper eqfxz1e5",
+        "div2_class":"ssrcss-1mhwnz8-Promo e1vyq2e80",
+        "div3_class":"ssrcss-pa3zb2-PromoSwitchLayoutAtBreakpoints et5qctl0",
+        "div4_class":"ssrcss-tq7xfh-PromoContent exn3ah99",
+        "div5_class":"ssrcss-1f3bvyz-Stack e1y4nx260",
+        "a_class":"ssrcss-1mrs5ns-PromoLink exn3ah91"
     }
 ]
